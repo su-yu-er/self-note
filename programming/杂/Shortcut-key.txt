@@ -1,0 +1,26 @@
+Win+D，快速进入桌面
+Win+E，打开我的电脑
+Win+I，打开设置界面
+Win+L，快速锁屏
+Win+M，最小化所有窗口
+Win+Shift+M，还原最小化的窗口
+Win+R，打开运行功能
+Win+V，多重剪贴板
+Win+Tab，新建电脑桌面
+Win+数字键，快速打开任务栏第N个程序
+Win+“+/-”，放大/缩小屏幕
+win+shift+s截图
+WIN + S 搜索程序
+
+Ctrl+X/C/V，剪切/复制/粘贴
+Ctrl+N，快速创建同级界面
+Ctrl+W，关闭当前界面
+Ctrl+Z，撤销操作
+Ctrl+Y，恢复操作
+Ctrl+Shift+N，快速新建文件夹
+
+Shift+Delete，永久删除文件
+
+Alt+鼠标双击 或 Enter键，查看文件属性（文件大小）
+Alt+F4，关闭当前应用/关机
+Alt+Tab，切换应用窗口

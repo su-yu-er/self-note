@@ -1,0 +1,6 @@
+﻿  game1.c
+  test1.c
+D:\COMputer\Desktop\Programme\Vs\VS project\GAME1\GAME1\test1.c(139,20): warning C4048: “char (*)[3]”和“char [16][16]”数组的下标不同
+D:\COMputer\Desktop\Programme\Vs\VS project\GAME1\GAME1\test1.c(151,20): warning C4048: “char (*)[3]”和“char [16][16]”数组的下标不同
+  正在生成代码...
+  GAME1.vcxproj -> D:\COMputer\Desktop\Programme\Vs\VS project\GAME1\Debug\GAME1.exe
